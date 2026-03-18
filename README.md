@@ -25,7 +25,7 @@ Machine-learned interatomic potentials (MLIPs) are increasingly central to compu
 ## Setup
  
 ```bash
-git clone https://github.com/<your-username>/mlip-fundamentals
+git clone https://github.com/zbschwab/mlip-fundamentals
 cd mlip-fundamentals
 pip install torch torch-geometric
 ```
