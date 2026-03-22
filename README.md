@@ -9,7 +9,8 @@ Machine-learned interatomic potentials (MLIPs) are increasingly central to compu
  
 | # | Notebook | Topic |
 |---|----------|-------|
-| 01 | `01_graph_data_structures.ipynb` | `Data` objects in PyG, `edge_index`, manual graph construction |
+| 00 | `00_torch_geometric_basics.ipynb` | PyG intro, manual graph construction |
+| 01 | `01_graph_data_structures.ipynb` | more PyG on toy dataset |
 <!--
 | 02 | `02_gcn_on_mutag.ipynb` | 2-layer GCN on MUTAG, graph classification end-to-end |
 | 03 | `03_message_passing_from_scratch.ipynb` | Re-implement GCN via `MessagePassing` base class |
